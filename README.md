@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blankstate1999
-- 👀 I’m interested in psychology, mental health, inequality, social justice, politics 
+- 👀 I’m interested in psychology, mental health, inequality, social justice, politics, AI
 - 🌱 I’m currently learning data science using R
 - 📫 How to reach me leecraigmercer@gmail.com
 
